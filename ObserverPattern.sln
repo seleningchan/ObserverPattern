@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{6FA76F77-615F-4C23-87E0-4A57660F5BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemo", "EventDemo\EventDemo.csproj", "{50CC4EF9-F163-422F-BCF5-FB8E80D4A67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA76F77-615F-4C23-87E0-4A57660F5BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA76F77-615F-4C23-87E0-4A57660F5BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA76F77-615F-4C23-87E0-4A57660F5BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA76F77-615F-4C23-87E0-4A57660F5BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CC4EF9-F163-422F-BCF5-FB8E80D4A67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CC4EF9-F163-422F-BCF5-FB8E80D4A67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CC4EF9-F163-422F-BCF5-FB8E80D4A67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CC4EF9-F163-422F-BCF5-FB8E80D4A67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5522C202-7C81-4A93-8F3E-018F1F253328}
+	EndGlobalSection
+EndGlobal
